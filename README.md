@@ -15,7 +15,7 @@
 <br />
 
 ## :eyes: Visão Geral
-O projecto Parcker, implementado em VisualG, foi desenvolvido como parte da cadeira de Algoritmos e Lógica de Programação (ALP) no meu primeiro ano de faculdade.
+O projecto Parcker, implementado em VisualG, foi desenvolvido como parte da cadeira de Algoritmos e Lógica de Programação (ALP) no meu primeiro ano na faculdade de Engenharia Informática.
 
 O principal objectivo deste projecto era melhorar a lógica de programação com um projecto prático, simulando que a XPTO, uma empresa de desenvolvimento de softwares, precisava de uma aplicação para gerir o estacionamento de um centro comercial, e o nosso objectivo, como membro da equipe, era desenvolvê-lo.
 
